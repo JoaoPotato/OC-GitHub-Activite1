@@ -5,10 +5,13 @@ Git & GitHub
 Activité 1
 repository contenant :
 
-    Un fichier "README.txt" qui présente le projet;
+    Un fichier "README.txt" 
     2 autres fichiers:
-	_formulaireContacts.html à ouvrir dans un navigateur, 
-		faites Maj+Ctrl+I pour voire les options (ou outils / developpement web / outils de developpement)
-	_formulaireContacts.js qui executera un programme simple de gestion des contacts  
-    Au moins 4 commits distincts montrant l’ajout puis la modification de certains fichiers.
+	formulaireContacts.html
+	formulaireContacts.js 
+    Au moins 4 commits
 
+Instructions
+Mettez les 2 fichiers formulaireContacts dans le même dossier
+Ouvrez formulaireContacts.html dans le navigateur
+Pour accéder aux options faites Maj+Ctrl+I ou Outils/Développements Web/tils de développement
