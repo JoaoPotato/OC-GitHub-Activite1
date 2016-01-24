@@ -14,4 +14,4 @@ repository contenant :
 Instructions
 Mettez les 2 fichiers formulaireContacts dans le même dossier
 Ouvrez formulaireContacts.html dans le navigateur
-Pour accéder aux options faites Maj+Ctrl+I ou Outils/Développements Web/tils de développement
+Pour accéder aux options faites Maj+Ctrl+I ou Outils/Développements Web/Outils de développement
